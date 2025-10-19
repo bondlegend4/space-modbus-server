@@ -1,0 +1,6 @@
+[submodule "modelica-rust-modbus-server"]
+	path = modelica-rust-modbus-server
+	url = https://github.com/bondlegend4/modelica-rust-modbus-server.git
+[submodule "space-modelica-components"]
+	path = space-modelica-components
+	url = https://github.com/bondlegend4/space-modelica-components.git
